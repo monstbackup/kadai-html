@@ -1,12 +1,8 @@
 @charset "utf-8";
 
-body {
-    width: 1000px;
-    
-}
-
 header {
     background-color: #ffcccc;
+    width: 1000px;
 }
 
 header p {
@@ -15,21 +11,21 @@ header p {
 
 #wrapper {
     display: flex;
-    justify-content: space-between;
 }
 
 #main {
     background-color: #ccffcc;
-    width: 70%;
+    width: 700px;
 }
 
 #menu {
     background-color: #ccccff;
-    width: 30%;
+    width: 300px;
 }
 
 footer {
     background-color: #ffccff;
+    width: 1000px;
 }
 
 footer p {
