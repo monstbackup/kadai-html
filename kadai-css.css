@@ -3,14 +3,13 @@
 header {
     background-color: #ffcccc;
     width: 1000px;
-}
-
-header p {
     margin: 0;
 }
 
+
 #wrapper {
     display: flex;
+    width: 1000px;
 }
 
 #main {
@@ -26,8 +25,6 @@ header p {
 footer {
     background-color: #ffccff;
     width: 1000px;
-}
-
-footer p {
     margin: 0;
 }
+
